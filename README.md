@@ -12,4 +12,4 @@ The project uses Protractor with Cucumber to run e2e tests.
 - On another terminal in the same directory, run `npm run e2e`
 
 ### Look at the Report
-In case you want to take a look a the report, you can find in in `./reports/protractor-e2e/e2e/index.html`
+In case you want to take a look a the report, you can find it in `./reports/protractor-e2e/e2e/index.html`
